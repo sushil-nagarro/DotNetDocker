@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bc5/QFG4/vVV+5F+AxLhBqtLad8nkm9YR4BBaYdNho03IdhurwVK3XsIpBo2yxjxH8cJNYSx+Wa2skFrfIk6KA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\WebApi\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushilbandekar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\sushilbandekar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
